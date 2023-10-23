@@ -2,7 +2,8 @@ body {
     background-color: silver;
     color: white;
     padding: 20px;
-    font-family: Arial, Verdana, sans-serif;}
+    font-family: Arial, Verdana, sans-serif;
+}
 
 h1 {
     background-color: #ffffff;
@@ -75,4 +76,3 @@ p.thirteen {
 p.fourteen {
     background-color: rgb(0, 136, 221);
 }
-
